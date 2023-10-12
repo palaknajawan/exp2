@@ -1,0 +1,89 @@
+body {
+    background-color: #f5f5f5;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    border: 2px double #333; 
+    border-radius: 95%;
+}
+
+/* Header Styles */
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+}
+
+/* Container Styles */
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+}
+
+/* Profile Picture Styles */
+.profile-picture {
+    float: right;
+    max-width: 20%;
+    border: 1px solid #333;
+    padding: 10px;
+    border-radius: 15%;
+}
+
+/* Personal Details Styles */
+.personal-details {
+    padding: 20px;
+    border: 1px solid #333;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
+
+.personal-details h2 {
+    color: #333;
+}
+
+/* Skill Sets Styles */
+.skill-sets {
+    padding: 20px;
+    border: 1px solid #333;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
+
+.skill-sets h2 {
+    color: #333;
+}
+
+/* Audio and Video Styles */
+.media {
+    padding: 20px;
+    border: 1px solid #333;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
+
+.media h2 {
+    color: #333;
+}
+
+/* Footer Styles */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+}
+
+/* Social Media Button Styles */
+.social-media-button {
+    border: 1px solid #fff;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #333;
+    color: #fff;
+}
+
+.social-media-button i {
+    margin-right: 5px;
+}
